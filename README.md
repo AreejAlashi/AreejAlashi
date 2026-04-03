@@ -5,14 +5,37 @@ I love improving software quality, documenting my learning progress, and explori
 
 ---
 
-## 🔹 My Testing Toolkit
-
-<img width="1024" height="1024" alt="tools" src="https://github.com/user-attachments/assets/faf6e442-403c-475e-aab2-cdad96755f1e" />
-
-
-
----
-
-I love documenting my learning progress and exploring new QA tools.
+🛠️ Software Quality Assurance Toolkit
+🔍 Manual Testing
+<div align="center">
+📄	📄	📄	📄
+Test Scenario	SRS	Test Plan	Test Cases
+🧩	🐞	📊
+RTM	Bug Report	Summary Report
+</div>
+🤖 Automation Testing
+<div align="center">
+Tool	Tool	Tool	Tool
+Selenium	TestNG	Postman	Appium
+JMeter	🚧 Playwright (Soon)		
+</div>
+🌐 Web Basics
+<div align="center">
+🌍	🎨
+HTML	CSS
+</div>
+💻 Programming Languages
+<div align="center">
+☕	⚡	🗄️
+Java	JavaScript (Learning)	MySQL (Basic)
+</div>
+🎯 Soft Skills
+<div align="center">
+✔️	✔️	✔️	✔️
+Attention to Detail	Analytical Thinking	Documentation	Reporting
+</div>
+🚀 Learning Roadmap
+JavaScript (In Progress)
+Playwright (Next Step)
 
 ⚠️ **Important:** To download any Excel testing document, click on the file name, then press **View raw** on the preview page.
