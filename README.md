@@ -1,4 +1,3 @@
 ## Hi there 👋
 
-⚠️ **Important:** To download any of Excel files Testing docmentation
-, click on the file name, then press **View raw**  of the preview page.  
+⚠️ **Important:** To download any Excel testing document, click on the file name, then press **View raw** on the preview page.
