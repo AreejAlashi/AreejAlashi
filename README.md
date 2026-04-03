@@ -7,7 +7,8 @@ I love improving software quality, documenting my learning progress, and explori
 
 ## 🔹 My Testing Toolkit
 
-<img width="1024" height="1024" alt="Toolkits" src="https://github.com/user-attachments/assets/50a134e1-94f4-4541-9726-cd3ee425fb3a" />
+<img width="1024" height="1024" alt="tools" src="https://github.com/user-attachments/assets/faf6e442-403c-475e-aab2-cdad96755f1e" />
+
 
 
 ---
